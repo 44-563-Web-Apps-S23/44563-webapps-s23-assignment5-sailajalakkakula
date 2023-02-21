@@ -1,0 +1,20 @@
+.table:hover{
+    border: 500px;
+    ascent-override: active;
+    color: yellow;   
+}
+.info{
+    background-color: aqua;
+}
+.warning{
+    background-color:red;
+}
+tr.active{
+    background-color: lightsalmon;
+}
+.danger{
+    background-color:lightpink;
+}
+.success{
+    background-color:lightskyblue;
+}
